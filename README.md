@@ -1,3 +1,3 @@
 #Demo of GitHub
 
-Demo by Binupa
+Demo by Binupa Babu
